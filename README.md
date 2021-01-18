@@ -22,12 +22,23 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
+This is a simple todo list app that i built in javascript practise project. It includes features like add tasks, delete tasks, clear tasks mark as completed and Data saved through local storage.
+
+## Built With
+The open source frameworks that i used while building this projects are:
+* [Bootstrap](https://getbootstrap.com)
+* [Font Awesome](https://fontawesome.com)
+
+## Contact
+[Prabiz Shakya](https://www.linkedin.com/in/prabiz-shakya/)
+Project Link: [https://prabizshakya.com.np/Projects/Todo_App/](https://prabizshakya.com.np/Projects/Todo_App/)
+
+
 
 
 
