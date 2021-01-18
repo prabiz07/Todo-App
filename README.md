@@ -27,7 +27,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-##About the Project
+## About the Project
 
 
 
