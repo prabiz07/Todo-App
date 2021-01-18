@@ -1,5 +1,15 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<p align="center">
+  <h3 align="center">Todo App</h3>
+
+  <p align="center">
+    Simple TODO App project build using javaScript.
+    <br />
+      <a href="https://prabizshakya.com.np/Projects/Todo_App/">View Demo</a>
+  </p>
+</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
