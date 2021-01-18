@@ -1,2 +1,2 @@
 # Todo-App
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/prabiz-shakya/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
