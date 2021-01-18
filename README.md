@@ -1,7 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h2 align="center">Todo App</h2>
+  <h1 align="center">Todo App</h1>
 
   <p align="center">
     Simple Todo App project build using javaScript.
