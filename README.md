@@ -1,10 +1,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <h3 align="center">Todo App</h3>
+  <h2 align="center">Todo App</h2>
 
   <p align="center">
-    Simple TODO App project build using javaScript.
+    Simple Todo App project build using javaScript.
     <br />
       <a href="https://prabizshakya.com.np/Projects/Todo_App/">View Demo</a>
   </p>
