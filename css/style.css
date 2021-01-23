@@ -6,6 +6,7 @@
     padding: 0;
 }
 
+/* Main Style */
 body{
     background: #2980b9; /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #ffffff); 
@@ -171,5 +172,11 @@ body{
     top: 15px;
 }
 
-
+/* Responsive Style */
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) { 
+    .taskWrapper{
+        width: 100%;
+    }
+}
 
