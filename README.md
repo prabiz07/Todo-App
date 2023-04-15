@@ -6,7 +6,7 @@
   <p align="center">
     Simple Todo App project build using javaScript.
     <br />
-      <a href="https://prabizshakya.com.np/Projects/Todo_App/">View Demo</a>
+      <a href="https://prabiz07.github.io/Todo-App/">View Demo</a>
   </p>
 </p>
 
