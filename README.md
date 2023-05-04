@@ -37,7 +37,7 @@ The open source libraries that i used while building this projects are:
 ## Contact
 [Prabiz Shakya](https://www.linkedin.com/in/prabiz-shakya/)
 
-Project Link: [https://prabizshakya.com.np/Projects/Todo_App/](https://prabizshakya.com.np/Projects/Todo_App/)
+Project Link: [https://prabiz07.github.io/Todo-App/](https://prabiz07.github.io/Todo-App/)
 
 
 
